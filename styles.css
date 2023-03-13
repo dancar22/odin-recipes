@@ -1,0 +1,15 @@
+.title {
+    background-color: black;
+    color:white;
+    text-align: center;
+}
+
+.icon {
+    width: 300px;
+    height: auto;
+}
+
+.link {
+    color: white;
+    background-color: black;
+}
