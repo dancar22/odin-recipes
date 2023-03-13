@@ -1,15 +1,32 @@
+
 .title {
-    background-color: black;
-    color:white;
+    background-color: palegoldenrod;
+    color:black;
     text-align: center;
+}
+
+.heading {
+    text-align: left;
 }
 
 .icon {
     width: 300px;
-    height: auto;
+    height: 400px;
 }
 
 .link {
-    color: white;
-    background-color: black;
+    color: black;
+    background-color: palegoldenrod;
+    display:block;
+    width: 300px;
+    text-align: center;
+
 }
+
+div {
+    display:inline-block;
+    width: 500px;
+    height: 500px;
+}
+
+
